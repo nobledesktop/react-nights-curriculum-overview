@@ -2,7 +2,14 @@
 
 ## Overview
 
-This curriculum is designed to teach students the fundamentals of React. It is broken down into four units: Beginning React, Intermediate React, Advanced React, and Full Stack React. Each unit is broken down into multiple sections, most of which are designed to roughly fit a 6-hour class. All sections have a lesson and, time permitting, an assignment. The curriculum is designed to be taught in order, as each lesson builds on the previous one.
+This curriculum is designed to teach students the fundamentals of React. It is broken down into four units:
+
+- Beginning React,
+- Intermediate React,
+- Advanced React,
+- Full Stack React.
+
+Each unit is broken down into multiple sections, most of which are designed to roughly fit a 6-hour class. All sections have a lesson and, time permitting, an assignment. The curriculum is designed to be taught in order, as each lesson builds on the previous one.
 
 ## How To Use This Repository
 
